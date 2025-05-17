@@ -6,10 +6,8 @@
 ## ⚠️ **Disclaimer:**
 #### This script and guide are provided for educational purposes to help you understand the lab process. Please ensure you understand the steps before using any scripts. Before using the script, I encourage you to open and review it to understand each step.The goal is to help you learn how to complete the labs effectively while following Qwiklabs' terms of service and YouTube's community guidelines.
 ---
-
-
-
-```
+- ## First turn on the `Development Mode`
+![Image](https://github.com/user-attachments/assets/f5aebb47-7c7b-4416-b170-9c9f3a32df61)
 
 - ### Go to training_ecommerce.model file & Replace with this Query :
 
@@ -78,8 +76,6 @@ explore: events {
 }
 
 ```
-
-- ### Follow the video carefully to complete the remaining progress
 
 ---
 
