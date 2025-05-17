@@ -1,4 +1,4 @@
-# Filtering Explores with LookML || [GSP892](https://www.cloudskillsboost.google/focuses/18475?parent=catalog) ||
+# Filtering Explores with LookML || [GSP892](https://www.cloudskillsboost.google/focuses/18477?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
